@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #7bdaf3;
+  background-color: steelblue;
   font-family: 'Poppins', sans-serif;
   display: flex;
   flex-wrap: wrap;
@@ -31,7 +31,7 @@ body {
 }
 
 .note {
-  background-color: #fff;
+  background-color: whitesmoke;
   box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.1);
   margin: 30px 20px;
   height: 400px;
@@ -40,7 +40,7 @@ body {
 }
 
 .note .tools {
-  background-color: #9ec862;
+  background-color: lightgreen;
   display: flex;
   justify-content: flex-end;
   padding: 0.5rem;
@@ -49,7 +49,7 @@ body {
 .note .tools button {
   background-color: transparent;
   border: none;
-  color: #fff;
+  color: whitesmoke;
   cursor: pointer;
   font-size: 1rem;
   margin-left: 0.5rem;
